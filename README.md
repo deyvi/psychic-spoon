@@ -1,1 +1,1 @@
-# psychic-spoon
+# solana-sniper-api
